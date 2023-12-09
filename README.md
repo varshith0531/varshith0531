@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @varshith0531
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
 - 📫 How to reach me varshithyadavalli@gmail.com
 
 <!---
