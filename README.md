@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varshith0531
+- 👋 Hi, I’m Varshith Yadavalli
 - 📫 How to reach me varshithyadavalli@gmail.com
 - 💻 Full Stack Developer | Passionate about building responsive web apps with React.js, Node.js, Express.js, Next.js & MongoDB 🚀
 - 🧠 Exploring AI-powered tools and modern JavaScript frameworks
