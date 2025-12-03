@@ -2,5 +2,5 @@
 - 📫 How to reach me varshithyadavalli@gmail.com
 - 💻 Full Stack Developer | Passionate about building responsive web apps with React.js, Node.js, Express.js, Next.js & MongoDB 🚀
 - 🧠 Exploring AI-powered tools and modern JavaScript frameworks
-- 🌐 [Portfolio](varshithyadavalli.vercel.app)
+- 🌐 [Portfolio](https://varshithyadavalli.vercel.app/)
 - 📫 Let’s connect: [Linkedin](linkedin.com/in/varshithyadavalli)
